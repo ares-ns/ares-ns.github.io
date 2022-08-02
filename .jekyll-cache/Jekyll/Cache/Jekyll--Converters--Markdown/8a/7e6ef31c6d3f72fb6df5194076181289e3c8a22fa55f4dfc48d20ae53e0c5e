@@ -1,0 +1,32 @@
+I"Ö<h2 id="whats-this-blog-about">Whatâ€™s this blog about?</h2>
+
+<p>Hello, friend!</p>
+
+<p>This is my personal blog site, where I would like to share ideas, Purple Teaming techniques, CTF writeups, other side projects and research.</p>
+
+<h2 id="specialized-in">Specialized in</h2>
+
+<ul>
+  <li>Cloud, DevOps / Site Reliability Engineering</li>
+  <li>Engineering productivity tools mainly focusing on Software Development and Security testing. <a href="https://brootware.github.io/categories/security-toolkit/">More details here</a>.</li>
+  <li>Cyber Security (Blue Team)</li>
+</ul>
+
+<h2 id="some-of-my-credentials">Some of my credentials</h2>
+
+<p><a href="https://www.credly.com/users/nicholas-svampa/badges"><img src="https://img.shields.io/badge/Credly%20Certificates-Nicholas%20Svampa-brightgreen" /></a></p>
+
+<p><a href="https://blueteamlabs.online/home/user/b3cd20267b953ff1c3bd1f"><img src="https://img.shields.io/badge/blueteamlabs-Top%2010%20percent-blue" /></a></p>
+
+<p><a href="https://cyberdefenders.org/profile/ares-ns"><img src="https://img.shields.io/badge/cyberdefenders.org-ares-ns-blue" /></a></p>
+
+<h2 id="ctf-badges">CTF badges</h2>
+
+<script src="https://tryhackme.com/badge/740012"></script>
+
+<h2 id="a-disclaimer-as-usual">A disclaimer as usual</h2>
+
+<p>The views and opinions shown on this website are of my own and not necessarily the viewpoint of my employer.</p>
+
+<!-- > **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page. -->
+:ET
