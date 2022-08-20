@@ -8,11 +8,11 @@
   icon: 'fab fa-twitter'
 -
   type: email
-  icon: 'fas fa-envelope'
+  icon: 'fab fa-envelope'
   noblank: true            # open link in current tab
 -
   type: linkedin
-  icon: 'fas fa-linkedin'
+  icon: 'fab fa-linkedin'
   url:  'https://www.linkedin.com/in/nicholas-svampa/'
 
 # Uncomment and complete the url below to enable more contact options
