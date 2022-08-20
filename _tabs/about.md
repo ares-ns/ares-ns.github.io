@@ -21,6 +21,8 @@ This is my personal blog site, where I would like to share ideas, Purple Teaming
 ## Some of my credentials
 
 <a href="https://www.credly.com/users/nicholas-svampa/badges"><img src="https://img.shields.io/badge/Credly%20Certificates-Nicholas%20Svampa-brightgreen"/></a>
+<a href="https://www.credly.com/badges/7579290e-347e-4c72-a989-7e622d914247"><img src="https://img.shields.io/badge/Verify%20my%20badge-Introdution%20IoT-brightgreen"/></a>
+<a href="https://www.credly.com/badges/7949d732-1575-4222-a9ba-a24d98150184"><img src="https://img.shields.io/badge/Verify%20my%20badge-Aviatrix%20Certified%20Engineer-brightgreen"/></a>
 
 <!--
 <a href="https://blueteamlabs.online/home/user/b3cd20267b953ff1c3bd1f"><img src="https://img.shields.io/badge/blueteamlabs-Top%2010%20percent-blue" /></a>
