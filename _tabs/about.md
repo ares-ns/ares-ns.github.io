@@ -14,7 +14,6 @@ This is my personal blog site, where I would like to share ideas, Purple Teaming
 ## Education
 
 - Bachelor Degree in computer engineering
-- Wannabe a DevSecOps Engineer
 - Cyber Security Analyst (purple team)
 - CTF player
 
